@@ -1,16 +1,20 @@
-### Hi there 👋
+### !Hola! Mi nombre es Marco
 
-<!--
-**marcobejarano/marcobejarano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¿Quién soy?
+Soy un estudiante de desarrollo web en el bootcamp de Henry.
 
-Here are some ideas to get you started:
+¿Qué hago?
+Actualmente estoy llevando el proyecto final que consiste de un grupo de 8 integrantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¿A dónde me dirijo?
+Mi objetivo principal es resolver problemas, encontrar mejores soluciones a problemas ya resueltos y hacer la vida más fácil y cómoda mediante código.
+
+¿Qué tecnologías uso?
+El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para poder desarrollar proyectos de desarrollo web. Las tecnologías que manejo son:
+JavaScript
+React.js
+Node.js
+Express.js
+PostgreSQL
+Sequelize
+GIT
