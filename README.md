@@ -1,10 +1,10 @@
 ## !Hola! Mi nombre es Marco
 
 ### ¿Quién soy?
-Soy un apasionado estudiante de desarrollo web, actualmente cursando el bootcamp de Henry.
+Soy un apasionado estudiante de desarrollo web.
 
 ### ¿Qué hago?
-Actualmente estoy llevando a cabo el proyecto final del bootcamp, el cual consiste en un equipo de 8 integrantes.
+Actualmente me encuentro armando mi portafolio de proyectos.
 
 ### ¿A dónde me dirijo?
 Mi objetivo principal es resolver problemas, encontrar mejores soluciones a problemas ya resueltos y hacer la vida más fácil y cómoda mediante código.
